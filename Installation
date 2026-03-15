@@ -1,0 +1,5 @@
+Install Python 3 in your computer `apt install python3 python3-pip`
+
+Install the required python packages on your computer `pip3 install --upgrade numpy scipy matplotlib jupyterlab`
+
+Run Jupyterlab    `jupyter-lab`
